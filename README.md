@@ -1,9 +1,7 @@
-<<<<<<< HEAD
 # Simple Chat Application - Instant Communication Made Easy
 
 Welcome to the Simple Chat Application, a straightforward web-based platform designed for instant communication. This application allows users to engage in real-time conversations without any unnecessary complexities. It's built using basic web technologies like HTML, CSS, and JavaScript, providing a seamless chatting experience.
 
-![chat-app](https://github.com/ashish-makes/chat-app/assets/106135144/a181f454-6926-4e8b-afb3-582bbe579baa)
 
 ## Features
 
@@ -17,7 +15,7 @@ Welcome to the Simple Chat Application, a straightforward web-based platform des
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/ashish-makes/chat-app
+   git clone https://github.com/SusmithaRajeshwari/ChatApp.git
 
 2. Navigate to the repository directory:
    ```bash
