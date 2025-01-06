@@ -38,8 +38,4 @@ Contributions to enhance the simplicity and functionality of the chat applicatio
 4. Push your changes to your forked repository.
 5. Create a pull request targeting this repository's main branch.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-=======
-# ChatApp
->>>>>>> c28e2b776ae4e4e517f61dc647c36285a9301d0d
+
